@@ -1,0 +1,2 @@
+xcopy C:\Users\charl\PycharmProjects\price_prediction\ArquivosGerados\mediana_minima.txt C:\Users\charl\AppData\Roaming\MetaQuotes\Terminal\698B86206820B42976F30D28CAC50412\MQL5\Files\ /y
+xcopy C:\Users\charl\PycharmProjects\price_prediction\ArquivosGerados\mediana_maxima.txt C:\Users\charl\AppData\Roaming\MetaQuotes\Terminal\698B86206820B42976F30D28CAC50412\MQL5\Files\ /y
