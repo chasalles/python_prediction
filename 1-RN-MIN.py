@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 
-CONV_WIDTH = 50
+CONV_WIDTH = 2
 MAX_EPOCHS = 1000
 
 csv_path = "PETR3-DIARIO-MINIMO.csv"
