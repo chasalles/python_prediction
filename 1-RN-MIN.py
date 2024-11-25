@@ -5,7 +5,7 @@ import tensorflow as tf
 CONV_WIDTH = 2
 MAX_EPOCHS = 1000
 
-csv_path = "PETR3-DIARIO-MINIMO.csv"
+csv_path = "PETR4-DIARIO-MINIMO.csv"
 
 df = pd.read_csv(csv_path)
 
